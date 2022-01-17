@@ -1,7 +1,7 @@
 
 import axios from 'axios';
 
-
+require('dotenv').config();
 export const baseUrl = 'https://bayut.p.rapidapi.com';
 
 
